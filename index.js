@@ -38,7 +38,7 @@ const r = new Discord.RichPresence()
      client.user.setPresence({ status: "idle" }); //dnd, online, idle, offline
 })
 
-const mySecret = "OTMxNTEyMzE3MzY2MTA4MjEw.GfL_6I.vmL1wkJATlIIAj0ORrsWJlwJjIMW46UTnEcw3c"
+const mySecret = ""
 client.login(mySecret)
 
 
